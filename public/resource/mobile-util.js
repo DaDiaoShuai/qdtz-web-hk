@@ -14,7 +14,7 @@
 
  */
 if(navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)){
-	    window.location.href= 'http://m.qdtz888.com/'; 
+	    window.location.href= 'https://int.qdtz888.com/';
 };
 window.mobileUtil = (function(win, doc) {
 	var UA = navigator.userAgent,
